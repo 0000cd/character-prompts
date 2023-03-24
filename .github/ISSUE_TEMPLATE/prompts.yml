@@ -1,0 +1,40 @@
+name: 新增角色
+description: 分享你的 AI 虚拟朋友 Prompts
+title: 【角色】（角色名字）（角色来源）（删除括号内容）
+labels: ["Prompts", "新角色"]
+body:
+  - type: textarea
+    attributes:
+      label: 角色说明
+      description: 这个角色的额外说明，如性格、技能、记忆裁剪、特殊设定等
+      placeholder: 例如：因为……，该角色记忆裁剪到……，没有…… 角色的知识。 该角色有…… 技能。该角色更改了……设定。
+  - type: textarea
+    attributes:
+      label: 对话预览
+      description: 分享一段你与 AI 使用该 Prompts 的聊天记录，展示下效果
+      placeholder: 例如，你与该角色的三次聊天。
+  - type: dropdown
+    attributes:
+      label: AI 模型
+      description: 选择您使用此 Prompts 的 AI 模型，在哪用
+      options:
+        - gpt-3.5-turbo API
+        - gpt-4 API
+        - ChatGPT 3.5 官网版
+        - GPT-4 官网版
+        - New Bing
+        - ' 文心一言'
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Prompts
+      description: 在此处向大家分享你角色的 Prompts
+      placeholder: 现在你是…… 我的第一句话是……
+    validations:
+      required: true
+  - type: markdown
+    attributes:
+      value: >-
+        This template was generated with [Issue Forms
+        Creator](https://issue-forms-creator.netlify.app)

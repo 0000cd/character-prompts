@@ -1,0 +1,7 @@
+code {
+    white-space: pre-wrap;
+  }
+
+.max-w-prose {
+	max-width: 80ch;
+}
