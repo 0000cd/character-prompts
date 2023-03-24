@@ -5,7 +5,7 @@
 # Refer to the theme docs for more details about each of these parameters.
 # https://blowfish.page/docs/configuration/#theme-parameters
 
-colorScheme = "Fire"
+colorScheme = "Slate"
 defaultAppearance = "dark" # valid options: light or dark
 autoSwitchAppearance = false
 
@@ -56,7 +56,7 @@ smartTOCHideUnfocusedChildren = true
   showBreadcrumbs = false
   showDraftLabel = true
   showEdit = true
-  editURL = "https://github.com/nunocoracao/blowfish/tree/main/exampleSite/content"
+  editURL = "https://github.com/0000cd/character-prompts/tree/main/content"
   editAppendPath = true
   seriesOpened = false
   showHeadingAnchors = true

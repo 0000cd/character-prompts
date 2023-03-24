@@ -22,7 +22,7 @@
 
 [[main]]
   name = "新增角色"
-  pageRef = "posts"
+  url = "https://github.com/0000cd/character-prompts/issues/new/choose"
   weight = 20
 
 #[[main]]
