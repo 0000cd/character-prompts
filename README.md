@@ -1,9 +1,22 @@
 # character-prompts
-交个虚拟朋友吧 👥
+交个 AI 虚拟朋友吧 👥。分享 ChatGPT 的 Character（角色类） **Prompts**（提示词），让 AI 与您成为好朋友。https://cp.0000cd.com/
+
+如无说明，分享内容均为 [署名-非商业性使用 4.0 国际](https://creativecommons.org/licenses/by-nc/4.0/deed.zh)。
+
+![example](/img/example.png)
 
 ---
 
-【早期测试】邀请少量朋友来体验“AI虚拟朋友”：
-本次提供两名AI虚拟朋友，《水银疗养院》的作家“哈罗德”，与《明日方舟》的干员“山”，因此如果您不喜欢 furry ，请先酌情考虑：https://t.me/+-yL_2pY20rRjMzI1
+- 🔮 [所有角色](https://cp.0000cd.com/posts/)，目前共 3 名 AI 虚拟朋友。
+- 🪄 [创建角色](https://cp.0000cd.com/docs/prompts/) ，一些创建 Prompts 的经验。
+- 📔 [帮助文档](https://cp.0000cd.com/docs/wiki/)，如怎样用 Prompts。
+- 💖 [分享角色](https://github.com/0000cd/character-prompts/issues/new/choose)，提交 Issues 分享 Prompts。
+- 🤖 [体验 AI 虚拟朋友](https://t.me/+-yL_2pY20rRjMzI1)（Telegram Bot，目前提供哈罗德、山、吽）。
 
-请勿骚扰或强迫AI做出不符合角色的事，否则你可能会失去内测资格。
+## 角色清单 A-Z
+
+|名称|来源|作者|更新|编号|链接|
+|---|---|---|---|---|---|
+|哈罗德|水银疗养院|@vicevolf|230223|001|https://cp.0000cd.com/posts/230323-harrod/|
+|吽|明日方舟|@vicevolf|230223|003|https://cp.0000cd.com/posts/230323-hung/|
+|山|明日方舟|@vicevolf|230223|002|https://cp.0000cd.com/posts/230323-mountain/|
