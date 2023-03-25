@@ -5,7 +5,7 @@ draft: false
 tags: ["文档","ChatGPT","Prompts"]
 series: ["帮助文档"]
 series_order: 1
-summary: "ChatGPT 是 OpenAI 基于 GPT-3.5 架构训练的大型语言模型"
+summary: "cessssssssssssssssss"
 ---
 
 ## 什么是 ChatGPT

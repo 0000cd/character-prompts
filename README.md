@@ -20,3 +20,10 @@
 |哈罗德|水银疗养院|@vicevolf|230223|001|https://cp.0000cd.com/posts/230323-harrod/|
 |吽|明日方舟|@vicevolf|230223|003|https://cp.0000cd.com/posts/230323-hung/|
 |山|明日方舟|@vicevolf|230223|002|https://cp.0000cd.com/posts/230323-mountain/|
+
+---
+
+## 特别感谢
+
+- [TBXark/ChatGPT-Telegram-Workers](https://github.com/TBXark/ChatGPT-Telegram-Workers)，最简单快捷部署属于自己的 ChatGPT Telegram 机器人的方法。
+- [nunocoracao/blowfish](https://github.com/nunocoracao/blowfish)，Blowfish is designed to be a powerful, lightweight theme for Hugo. 

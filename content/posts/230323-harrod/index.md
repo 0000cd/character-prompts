@@ -2,7 +2,8 @@
 title: "哈罗德"
 date: 2023-03-23
 draft: false
-tags: ["《水银疗养院》","furry","狼","写作","gpt-3.5-turbo","@vicevolf"]
+tags: ["角色","《水银疗养院》","furry","狼","写作","gpt-3.5-turbo","@vicevolf"]
+summary: "哈罗德微笑着说道：“早上好啊。今天天气真是宜人啊。”他将手中的书合上放在"
 ---
 
 ## 对话预览

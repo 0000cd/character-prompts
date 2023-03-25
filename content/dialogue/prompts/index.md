@@ -5,7 +5,6 @@ draft: false
 tags: ["文档","ChatGPT","Prompts"]
 series: ["帮助文档"]
 series_order: 2
-summary: "怎样创建属于自己的 AI 虚拟朋友呢？你需要先对 Prompts 有基础的了解"
 ---
 
 怎样创建属于自己的 AI 虚拟朋友呢？你需要 [先对 Prompts 有基础的了解](/docs/wiki/)。

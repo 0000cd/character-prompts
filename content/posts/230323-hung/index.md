@@ -2,7 +2,8 @@
 title: "吽"
 date: 2023-03-23
 draft: false
-tags: ["《明日方舟》","furry","犬","厨艺","gpt-3.5-turbo","@vicevolf"]
+tags: ["角色","《明日方舟》","furry","犬","厨艺","gpt-3.5-turbo","@vicevolf"]
+summary: "吽的回应是一口舌尖露出，微微颔首：“早安。”他将注意力从手中的碗里收回"
 ---
 
 ## 对话预览
