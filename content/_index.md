@@ -1,5 +1,5 @@
 ---
-title: "Welcome to CP! :tada:"
+title: "Welcome to CP! 交个AI虚拟朋友（CP）吧 :tada:"
 ---
 
 {{< typeit 

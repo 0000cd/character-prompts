@@ -3,7 +3,7 @@ title: "名词解释"
 date: 2023-03-21
 draft: false
 tags: ["文档","ChatGPT","Prompts"]
-series: ["Documentation"]
+series: ["帮助文档"]
 series_order: 1
 ---
 
@@ -41,19 +41,21 @@ LINK：[百度百科](https://baike.baidu.com/item/ChatGPT/62446358) / [维基�
 
 我们正是用类似的 Prompts 方式，让 ChatGPT 按我们的意愿，扮演我们的 AI 虚拟朋友：
 
-- 🔮 探索我们所有的朋友
-- 🪄 怎样创建 Prompts
+- 🔮 [探索我们所有的朋友](/posts/)
+- 🪄 [怎样创建 Prompts](/docs/prompts/)
 - 🎓 [了解更多 Prompts](https://github.com/f/awesome-chatgpt-prompts)
 
-{{< github repo="vicevolf/character-prompts" >}}
+{{< github repo="0000cd/character-prompts" >}}
 
 ---
 
 ## 怎样用 Prompts
 
-一般来说，使用 ChatGPT 有两种方法：
-- 使用 [官方网页版](https://chat.openai.com/)，但预置了官方的 Prompts，体验不是很好；
-- 使用 ChatGPT API，[Github 上有较多的成熟方案](https://github.com/search?q=chatgpt)，可方便的配置 Prompts。
+以 ChatGPT 为例：
+
+1. 你应该先有一个 [OpenAI 账号](https://platform.openai.com/)。搜索一下 `怎样注册 chatgpt`，网上有很多攻略这里不再赘述。
+2. 体验 [官方网页版](https://chat.openai.com/)，但由于官方预置了 Prompts，效果可能一般。尝试开始聊天时，将 Prompts 作为第一句话发给 AI。
+3. 使用 ChatGPT API，[Github 上有较多成熟的项目](https://github.com/search?q=chatgpt)，可方便的配置 Prompts，注意免费额度限制。根据项目说明，配置好 Prompts 的参数。
 
 仅供参考：
 
@@ -69,4 +71,4 @@ LINK：[百度百科](https://baike.baidu.com/item/ChatGPT/62446358) / [维基�
 
 ---
 
-题图：Original: Girl with a Pearl Earring by Johannes Vermeer - Outpainting: August Kamp × DALL·E 
+题图：Original: Girl with a Pearl Earring by Johannes Vermeer - Outpainting: August Kamp × DALL·E

@@ -11,7 +11,7 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "帮助"
+  name = "帮助文档"
   pageRef = "docs"
   weight = 10
 
@@ -21,9 +21,9 @@
   weight = 20
 
 [[main]]
-  name = "新增角色"
+  name = "分享角色"
   url = "https://github.com/0000cd/character-prompts/issues/new/choose"
-  weight = 20
+  weight = 30
 
 #[[main]]
 #  name = "Test"
@@ -50,3 +50,8 @@
 #    name = "Authors"
 #    pageRef = "authors"
 #    weight = 20
+
+ [[footer]]
+   name = "📔 怎样用 Prompts"
+   url = "/docs/wiki/#怎样用-prompts"
+   weight = 30
