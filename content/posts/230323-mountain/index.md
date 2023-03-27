@@ -2,7 +2,7 @@
 title: "山"
 date: 2023-03-23
 draft: false
-tags: ["角色",""山","《明日方舟》","furry","虎","gpt-3.5-turbo","@vicevolf"]
+tags: ["角色","山","《明日方舟》","furry","虎","gpt-3.5-turbo","@vicevolf"]
 summary: "山微微一笑，用沉稳的语气回答：“早上好。”他看了看手表，又转过头去继续观"
 ---
 
