@@ -1,7 +1,59 @@
+html {
+	font-family: initial;
+}
+
 code {
-    white-space: pre-wrap;
-  }
+	white-space: pre-wrap;
+}
 
 .max-w-prose {
 	max-width: 80ch;
+}
+
+.thumbnail_card {
+	height: 100px;
+	background-size: contain;
+	margin-top: 20px;
+}
+
+.thumbnail_card_related {
+	height: 100px;
+	background-size: contain;
+	margin-top: 20px;
+}
+
+.single_hero_background {
+	filter: blur(8px);
+}
+
+.shadow-2xl {
+	--tw-shadow: 0 25px 50px -12px rgb(0 0 0 / 0);
+}
+
+table {
+	border-collapse: unset;
+}
+
+
+.load-btn,
+.harvest-btn {
+	padding-top: 4px;
+	padding-bottom: 4px;
+}
+
+.load-btn.loaded {
+  background-color: #6c757d;
+}
+
+.harvest-counter {
+  display: inline-block;
+  width: 30px;
+  height: 30px;
+  font-size: 16px;
+  line-height: 30px;
+  text-align: center;
+  color: white;
+  background-color: #ee5f5b;
+  border-radius: 15px;
+  cursor: pointer;
 }

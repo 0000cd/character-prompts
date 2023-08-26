@@ -1,0 +1,8 @@
+<button
+  class="load-btn !rounded-md bg-primary-600 px-4 py-2 !text-neutral !no-underline hover:!bg-primary-500 dark:bg-primary-800 dark:hover:!bg-primary-700"
+  data-code="{{ .Get "code" }}"
+  onclick="loadCoupon(this, '{{ .Get "code" }}', '{{ .Page.Title }}')"
+  title="请选择需要的软件">📥 批量安装</button>
+
+  <button class="harvest-btn !rounded-md bg-primary-600 px-4 py-2 !text-neutral !no-underline hover:!bg-primary-500 dark:bg-primary-800 dark:hover:!bg-primary-700" onclick="harvestCoupons()" title="生成 Winget 批量安装代码，点击数字清空">📦 Winget打包 !</button>
+  <span class="harvest-counter" onclick="resetCoupons()" title="🗑️ 危！点击清空所有批量安装">0</span>
