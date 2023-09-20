@@ -5,12 +5,12 @@ isoCode = "zh-cn"
 weight = 1
 rtl = false
 
-title = "软心 · 音速装机"
-logo = "img/cat.png"
-description = "电脑软件官方下载，尽在音速装机 —— 安心可靠，坐和放宽！涵盖各类热门软件，满足您的工作学习和娱乐需求。"
+title = "AI 虚拟朋友"
+logo = "img/cp.png"
+description = "AI character-prompts"
 copyright = "©{ year } #0000CD · [署名-非商业性使用 4.0 国际](https://creativecommons.org/licenses/by-nc/4.0/deed.zh)"
 
-dateFormat = "2006-01-02 Mon"
+dateFormat = "2 January 2006"
 
 # [author]
 #   name = "Your name here"

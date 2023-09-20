@@ -10,10 +10,8 @@ pluralizeListTitles = "true" # hugo function useful for non-english languages, f
 
 enableRobotsTXT = true
 paginate = 12
-summaryLength = 25
+summaryLength = 0
 
-hasCJKLanguage = true
-enableGitInfo = true
 
 # googleAnalytics = "G-PEDMYR1V0K"
 
@@ -33,18 +31,3 @@ enableGitInfo = true
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
-
-
-
-[markup]
-  [markup.highlight]
-    anchorLineNos = false
-    codeFences = false
-    guessSyntax = false
-    lineNos = false
-    lineNumbersInTable = false
-    noClasses = true
-    noHl = false
-    style = ""
-    tabWidth = ""
-

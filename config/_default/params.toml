@@ -5,15 +5,14 @@
 # Refer to the theme docs for more details about each of these parameters.
 # https://blowfish.page/docs/configuration/#theme-parameters
 
-colorScheme = "blueink"
-defaultAppearance = "light" # valid options: light or dark
+colorScheme = "slate"
+defaultAppearance = "dark" # valid options: light or dark
 autoSwitchAppearance = false
 
 enableSearch = true
 enableCodeCopy = true
 
-mainSections = ["posts", "apps"]
-# https://blowfish.page/docs/homepage-layout/#recent-articles
+mainSections = ["posts"]
 # robots = ""
 
 disableImageOptimization = false
@@ -35,14 +34,14 @@ smartTOCHideUnfocusedChildren = true
   showScrollToTop = true
 
 [homepage]
-  layout = "background" # valid options: page, profile, hero, card, background, custom
-  homepageImage = "/img/win11.jpg" # used in: hero, and card
+  layout = "hero" # valid options: page, profile, hero, card, background, custom
+  homepageImage = "/img/escape-flight.png" # used in: hero, and card
   showRecent = true
-  showRecentItems = 5
+  showRecentItems = 10
   showMoreLink = true
-  showMoreLinkDest = "apps"
+  showMoreLinkDest = "posts"
   cardView = true
-  cardViewScreenWidth = true
+  cardViewScreenWidth = false
   layoutBackgroundBlur = true # only used when layout equals background
 
 [article]
@@ -64,16 +63,12 @@ smartTOCHideUnfocusedChildren = true
   showPagination = true
   invertPagination = false
   showReadingTime = false
-
-  showRelatedContent = true
-  relatedContentLimit = 3
-  
   showTableOfContents = true
   showTaxonomies = true 
   showAuthorsBadges = true 
   showWordCount = false
   showSummary = false
-  # sharingLinks = [ "linkedin", "twitter", "reddit", "pinterest", "facebook", "email"]
+  sharingLinks = [ "linkedin", "twitter", "reddit", "pinterest", "facebook", "email"]
 
 [list]
   showHero = true
@@ -88,7 +83,7 @@ smartTOCHideUnfocusedChildren = true
   showCards = true
   groupByYear = false
   cardView = true
-  cardViewScreenWidth = true
+  cardViewScreenWidth = false
   constrainItemsWidth = false
 
 [sitemap]
