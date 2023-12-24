@@ -5,3 +5,7 @@ code {
 .max-w-prose {
 	max-width: 80ch;
 }
+
+.single_hero_background {
+	filter: blur(8px);
+}
