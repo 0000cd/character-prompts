@@ -2,8 +2,14 @@ code {
     white-space: pre-wrap;
   }
 
-.max-w-prose {
+/* .max-w-prose {
 	max-width: 80ch;
+} */
+
+@media (min-width: 768px) { /* Adjust this breakpoint as necessary */
+  .max-w-prose {
+    max-width: 80ch; /* Original styling for larger screens */
+  }
 }
 
 .single_hero_background {
